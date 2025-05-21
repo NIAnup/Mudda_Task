@@ -33,7 +33,15 @@ class VideoPostWidget extends StatelessWidget {
     final videoId = YoutubePlayer.convertUrlToId(youtubeUrl)!;
     final _ytController = YoutubePlayerController(
       initialVideoId: videoId,
-      flags: YoutubePlayerFlags(autoPlay: false, mute: false),
+
+      flags: YoutubePlayerFlags(
+        autoPlay: false,
+        mute: false,
+        disableDragSeek: false,
+        isLive: false,
+        forceHD: false,
+        enableCaption: true,
+      ),
     );
 
     return Obx(() {

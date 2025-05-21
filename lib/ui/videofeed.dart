@@ -4,8 +4,6 @@ import 'package:iconsax/iconsax.dart';
 import 'package:mudda_task/controller/videofeedController.dart';
 import 'package:mudda_task/widget/videopostWidget.dart';
 
-
-
 class VideoFeedPage extends StatelessWidget {
   final controller = Get.put(VideoFeedController());
 
@@ -13,8 +11,8 @@ class VideoFeedPage extends StatelessWidget {
     'https://www.youtube.com/watch?v=K18cpp_-gP8',
     'https://www.youtube.com/watch?v=5qap5aO4i9A',
     'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-    'https://www.youtube.com/watch?v=oHg5SJYRHA0',
-    'https://www.youtube.com/watch?v=3JZ_D3ELwOQ',
+    'https://www.youtube.com/watch?v=4peMgTL28ts',
+    'https://www.youtube.com/watch?v=hSBKRd70I58',
   ];
 
   @override
