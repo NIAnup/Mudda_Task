@@ -6,13 +6,13 @@ Mudda Task is a Flutter-based YouTube-style video feed application that displays
 
 - 📺 Embedded YouTube video playback
 - 🧠 State management with GetX
-- 🧭 Tab-based category navigation (`All`, `Education`, `Government`)
+- 🧭 Tab-based category navigation (`Trending`, `Group`, `Following`)
 - 🧵 Scrollable list of posts with user details, tags, and video player
 - 🧲 Bottom navigation bar for future expandability
 
 ## 📷 Screenshots
 
-| ![screenshot1](assets/output.png) 
+(assets/output.png) 
 
 > _Note: Replace above placeholders with actual screenshots stored in an `assets/` folder._
 
