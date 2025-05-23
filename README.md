@@ -12,7 +12,7 @@ Mudda Task is a Flutter-based YouTube-style video feed application that displays
 
 ## 📷 Screenshots
 
-!screenshot(assets/output.jpg)
+![screenshot1](assets/output.jpg)
 
 > _Note: Replace above placeholders with actual screenshots stored in an `assets/` folder._
 
