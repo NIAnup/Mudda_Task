@@ -1,16 +1,33 @@
-# mudda_task
+# Mudda Task 📺
 
-A new Flutter project.
+Mudda Task is a Flutter-based YouTube-style video feed application that displays categorized videos using the [youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter) package. It demonstrates use of `TabBar`, `TabBarView`, `GetX` state management, and video embedding in a scrollable list.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📺 Embedded YouTube video playback
+- 🧠 State management with GetX
+- 🧭 Tab-based category navigation (`All`, `Education`, `Government`)
+- 🧵 Scrollable list of posts with user details, tags, and video player
+- 🧲 Bottom navigation bar for future expandability
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| ![screenshot1](assets/output.png) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> _Note: Replace above placeholders with actual screenshots stored in an `assets/` folder._
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Flutter SDK >= 3.0.0
+- Android Studio or VS Code
+- Internet access (for YouTube videos)
+
+### Installation
+
+```bash
+git clone https://github.com/NIAnup/Mudda_Task.git
+cd Mudda_Task
+flutter pub get
+flutter run
